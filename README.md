@@ -137,7 +137,7 @@ python main.py
 ## Project Structure
 ```text
 pdf_merge/
-├── main.py                 # MainWindow class with UI logic and validation
+├── main.py                 # main code
 ├── ui/                     # Generated UI code from Qt Designer
 │   ├── mainwindow.py       # MainWindow class with UI logic and validation
 │   ├── ui_mainwindow.py    # Qt Designer Compiled code
@@ -153,4 +153,5 @@ pdf_merge/
 ## License
 
 This project is licensed under the MIT License.
+
 See the `LICENSE` file for full details.
